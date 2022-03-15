@@ -9,4 +9,4 @@ Quando Nuclear é executado todos os seus aquivos serão deletado e seu computad
 - [x] Sem Restauração
 - [x] Codigo de Segurança antes de executar
 
-© DarkMode
+**© DarkMode**
